@@ -1,0 +1,10 @@
+# Plugin
+*.key
+
+# Node
+node_modules
+
+# Local
+.DS_Store
+.idea
+*.iml
