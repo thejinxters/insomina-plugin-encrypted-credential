@@ -22,12 +22,12 @@ Auth` and `Bearer Token` Authentication.
 For _basic auth_:
 Use the keyword `Credential` in the password field instead of typing in a password.
 
-![Basic auth example](docs/img/basic-auth.png)
+![Basic auth example](https://raw.githubusercontent.com/thejinxters/insomina-plugin-encrypted-credential/master/docs/img/basic-auth.png)
 
 For _bearer token auth_:
 Use the keyword `Credential` in the token field instead of typing in a bearer token
 
-![Bearer token example](docs/img/bearer-auth.png)
+![Bearer token example](https://raw.githubusercontent.com/thejinxters/insomina-plugin-encrypted-credential/master/docs/img/bearer-auth.png)
 
 When making a request for the first time, the plugin will prompt you to enter in your desired
 credential. This credential will be stored in an encrypted file for future use.
@@ -41,7 +41,7 @@ variables:
 To re-enter a credential, click on `Credential` and select `Create new credential on next "send"`.
 This will prompt you to renter your password. 
 
-![Settings example](docs/img/settings.png)
+![Settings example](https://raw.githubusercontent.com/thejinxters/insomina-plugin-encrypted-credential/master/docs/img/settings.png)
 
 Uncheck this box after you have successfully sent
 a request to use the stored password.
