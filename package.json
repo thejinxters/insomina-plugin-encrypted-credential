@@ -1,6 +1,6 @@
 {
   "name": "insomna-plugin-encrypted-credentials",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Brandon Mikulka <bmikulka@gmail.com>",
   "description": "Loads request credentials from encrypted file",
   "license": "MIT",
