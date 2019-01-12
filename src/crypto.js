@@ -4,7 +4,7 @@ const path = require("path");
 const keyFilePath = path.resolve(__dirname) + "/crypto.key";
 
 function generateKey() {
-	return CryptoJS.lib.WordArray.random(256).toString(CryptoJS.enc.Utf8);
+	return CryptoJS.lib.WordArray.random(256).toString();
 }
 
 function encryptionKey() {
