@@ -7,6 +7,14 @@ a crypto key, and stores the encrypted passwords in `~/.insomina/insomina.creds`
 
 ## install
 
+**Via Insomnia**
+
+Under `Preferences > Plugins` install using the following npm-package-name:
+```
+insomnia-plugin-encrypted-credentials
+```
+
+
 **Manual Install**
 
 ```bash
